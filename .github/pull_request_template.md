@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Saidumar Akbarov
+- Your City: Barcelona
+- Your Slack Name: Saidumar Akbarov
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Induction
+- Week: Week 1 (sprint 1)
